@@ -1,2 +1,2 @@
 # Color-picker
-Enter you color and see magic 
+Enter any  color you wish  and see magic 
